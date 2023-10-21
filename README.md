@@ -1,3 +1,3 @@
 # putu
 
-http://putuofc.github.io/putu/index.html
+https://putuofc.github.io/website
